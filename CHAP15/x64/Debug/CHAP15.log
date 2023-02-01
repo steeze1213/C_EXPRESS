@@ -1,0 +1,3 @@
+﻿  contacts(LAB).c
+C:\Users\steez\OneDrive\문서\C_EXPRESS\CHAP15\contacts(LAB).c(25,3): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  CHAP15.vcxproj -> C:\Users\steez\OneDrive\문서\C_EXPRESS\CHAP15\x64\Debug\CHAP15.exe

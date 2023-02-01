@@ -1,0 +1,4 @@
+﻿  combination.c
+C:\Users\steez\OneDrive\문서\C_EXPRESS coding\CHAP8\combination.c(3,10): warning C4013: 'factorial'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\steez\OneDrive\문서\C_EXPRESS coding\CHAP8\combination.c(12,23): warning C4142: 'factorial': 형식이 재정의되었지만 심각하지는 않습니다.
+  CHAP8.vcxproj -> C:\Users\steez\OneDrive\문서\C_EXPRESS coding\CHAP8\x64\Debug\CHAP8.exe
